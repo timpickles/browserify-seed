@@ -11,6 +11,7 @@ A simple project to get started quickly with [Browserify](http://browserify.org/
 Clone the project and run `npm install` to install the dependencies.
 
     git clone https://github.com/timpickles/browserify-seed.git
+    cd browserify-seed
     npm install
 
 ## Grunt Tasks

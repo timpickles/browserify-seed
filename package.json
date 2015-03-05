@@ -19,8 +19,8 @@
   },
   "browserify": {
     "transform": [
-      "browserify-shim",
-      "babelify"
+      "babelify",
+      "browserify-shim"
     ]
   },
   "devDependencies": {

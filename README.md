@@ -31,6 +31,6 @@ If you also want to open a browser to [http://localhost:8000/](http://localhost:
 
 ## Building via npm
 
-It is also possible to only build the Javasctipt as `dist/main.js` via `npm` with
+It is also possible to build just the Javascript via `npm` with
 
     npm run build
